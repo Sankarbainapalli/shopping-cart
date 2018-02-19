@@ -1,0 +1,25 @@
+.thumbnail img{
+	max-height: 150px;
+	width: 300px;
+
+}
+
+.price{
+	font-size: 15px;
+	font-weight: bold;
+}
+.footer{
+ height: 100px;
+ width: 100%;
+ font-size: 40px;
+ background-color: gray;
+ color: white;
+ text-align: center;
+
+}
+.footer p{
+	 font-size: 20px;px;
+	 line-height: 100px;
+
+
+}
